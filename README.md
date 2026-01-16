@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Russell Barlisan and I'm an aspiring UI/UX Designer / Frontend Developer, from the Philippines</h2>
+<h2 align="left">Hi 👋! My name is Russell Barlisan</h2>
 
 ###
 ###
